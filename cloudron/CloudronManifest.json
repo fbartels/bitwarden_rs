@@ -4,7 +4,6 @@
   "author": "Daniel García",
   "description": "file://DESCRIPTION.md",
   "changelog": "file://CHANGELOG",
-  "dockerImage": "fbartels/bitwarden-cloudron",
   "tagline": "Rust implementation of the Bitwarden API",
   "version": "0.1.0",
   "healthCheckPath": "/",
